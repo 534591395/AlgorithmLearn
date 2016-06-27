@@ -1,5 +1,5 @@
 /**
- * BDD测试代码，测试列表实现
+ * TDD测试代码，测试列表实现
  * http://mochajs.org/
  * http://chaijs.com/
  * 
